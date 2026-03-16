@@ -142,7 +142,7 @@ with st.sidebar:
     st.markdown("### 系统状态")
     st.info("🧠 架构：上帝视角 + 长文本自动缓存\n\n🛡️ 权限：已启用双层安全隔离")
 
-st.title("✈️ 波音 OPT 全局智能专家 (上帝视角版)")
+st.title("✈️ 波音 OPT 全局智能专家 ")
 
 # 尝试加载整本书籍
 full_document_text = load_full_document()
